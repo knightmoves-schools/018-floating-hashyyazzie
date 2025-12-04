@@ -1,5 +1,4 @@
 /* Do not change this CSS file for this exercise */
-
 body {
     float: right;
 }
@@ -23,8 +22,4 @@ body {
     width: 52px;
     height: 52px;
     margin: 5px;
-    float: right;
-}
-.below {
-    clear: both;
 }
